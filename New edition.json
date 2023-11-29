@@ -1,0 +1,310 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+            "path" : "pages/home/home",
+            "style" : {
+				"navigationBarTitleText": "python发展历史"
+			}
+            
+        }
+        ,{
+            "path" : "pages/exercise/exercise",
+            "style" : {
+				"navigationBarTitleText": "python练习题"
+			}
+            
+        }
+        ,{
+            "path" : "pages/knowledge/knowledge",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "python知识点",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+            "path" : "pages/homwwork/homwwork",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }            
+        }
+        ,{
+            "path" : "pages/exercise/exercise01",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "第1套练习题",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/exercise/exercise02",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "第2套练习题",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/exercise/exercise03",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "第3套练习题",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/exercise/exercise04",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "第4套练习题",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+			"path" : "pages/exercise/exercise05",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "第5套练习题",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/exercise/exercise06",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "第6套练习题",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/exercise/exercise07",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "第7套练习题",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/exercise/exercise08",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "第8套练习题",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/exercise/exercise09",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "第9套练习题",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/exercise/exercise10",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "第10套练习题",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py01",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "1.变量",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py02",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "2.数据类型",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py03",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "3.控制语句",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py04",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "4.函数",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py05",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "5.类和对象",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py06",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "6.异常处理",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py07",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "7.模块和包",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py08",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "8.文件操作",
+			    "enablePullDownRefresh": false
+			}
+		}	
+		,{
+			"path" : "pages/knowledge/py09",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "9.正则表达式",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py10",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "10.内置函数",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py11",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "11.Lambda函数",
+			    "enablePullDownRefresh": false
+			}
+		}	
+		,{
+			"path" : "pages/knowledge/py12",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "12.Map函数",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py13",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "13.Filter函数",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py14",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "14.Decorator装饰器",
+			    "enablePullDownRefresh": false
+			}
+		}	
+		,{
+			"path" : "pages/knowledge/py15",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "15.迭代器和生成器",
+			    "enablePullDownRefresh": false
+			}
+		}	
+		,{
+			"path" : "pages/knowledge/py16",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "16.多线程和多进程",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py17",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "17.异常处理",
+			    "enablePullDownRefresh": false
+			}
+		}	
+		,{
+			"path" : "pages/knowledge/py18",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "18.with语句",
+			    "enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path" : "pages/knowledge/py19",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "19.python标准库和第三方库",
+			    "enablePullDownRefresh": false
+			}
+		}																										
+		,{
+			"path" : "pages/knowledge/py",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "",
+			    "enablePullDownRefresh": false
+			}
+		}
+	 ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "python练习题",
+		"navigationBarBackgroundColor": "#c00000",
+		"backgroundColor": "#F8F8F8",
+		"enablePullDownRefresh": true
+	},
+	"tabBar": {
+		"selectedColor": "red",
+		"list": [
+			{
+				"pagePath": "pages/home/home",
+				"text": "首页",
+				"iconPath": "static/static/language-python-text.png",
+				"selectedIconPath": "static/language-python-text.png"
+			},
+			{
+				"pagePath": "pages/exercise/exercise",
+				"text": "练习题",
+				"iconPath": "static/exercise.png",
+				"selectedIconPath": "static/exercise.png"
+			},
+			{
+				"pagePath": "pages/knowledge/knowledge",
+				"text": "知识点",
+				"iconPath": "static/knowledge.png",
+				"selectedIconPath": "static/knowledge.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}
